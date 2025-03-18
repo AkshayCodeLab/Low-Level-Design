@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/3. ObserverPattern/3. ObserverPattern.iml" filepath="$PROJECT_DIR$/3. ObserverPattern/3. ObserverPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/4. Decorator Pattern/4. Decorator Pattern.iml" filepath="$PROJECT_DIR$/4. Decorator Pattern/4. Decorator Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/5. Factory Pattern/5. Factory Pattern.iml" filepath="$PROJECT_DIR$/5. Factory Pattern/5. Factory Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6. Parking Lot/6. Parking Lot.iml" filepath="$PROJECT_DIR$/6. Parking Lot/6. Parking Lot.iml" />
       <module fileurl="file://$PROJECT_DIR$/LLD.iml" filepath="$PROJECT_DIR$/LLD.iml" />
     </modules>
   </component>
